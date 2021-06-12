@@ -11,10 +11,10 @@
 🧠Actualmente cuento con conocimientos en las siguientes tecnologías front-end y Back-end, algunas las domino más que otras conforme las voy aprendiendo y poniendo a prueba en proyectos prácticos.
 
 #### Front-end ####
->Html, Css, Javascript, Sass/scss, Jquery, BOOTSTRAP 4
+>Html, Css, Javascript, Sass/scss, Jquery, Bootstrap 4
 
 #### Back-end ####
->SQL, PHP, JAVA, NODEJS, Express, Spring
+>Sql, Php, JAVA, NodeJs, Express, Spring
 
 ### Intereses a Aprender ###
 🤔Planeo aprender más adelante tecnologías avanzadas y modernas usadas en el desarrollo front-end y back-end
