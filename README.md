@@ -1,4 +1,6 @@
-👋Hola mi nombre es *Brandon Alexis Machado*
+##Bienvenido##
+
+👋Hola mi nombre es **Brandon Alexis Machado**
 
 💻👨‍🎓Soy estudiante de programación orientado al desarrollo web💻 principalmente front-end.
 
@@ -6,19 +8,11 @@
 
 🧠Actualmente cuento con conocimientos en las siguientes tecnologías front-end y Back-end, algunas las domino más que otras conforme las voy aprendiendo y poniendo a prueba en proyectos prácticos.
 
--HTML
--CSS
--JAVASCRIPT
--SASS/SCSS
--BOOTSTRAP 4
--JQUERY
--SQL
--NODEJS
--PHP
--JAVA
--SPRING
--EXPRESS
+####Front-end####
+>Html, Css, Javascript, Sass/scss, Jquery, BOOTSTRAP 4
 
+####Back-end####
+>SQL, PHP, JAVA, NODEJS, Express, Spring
 🤔Planeo en el futuro aprender 
 
 -React.js
