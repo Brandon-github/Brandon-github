@@ -5,7 +5,7 @@
 
 💻👨‍🎓Soy estudiante de programación orientado al desarrollo web💻 principalmente **front-end**.
 
-💪Me gusta aprender continuamente y mejorar mi dominio en las tecnologías modernas para el desarrollo web sean Lenguajes, Librerías, Frameworks, prepocesadores entre otras me propongo el objetivo de aprender poco a poco, implementandolas a mis futuros proyectos
+💪Me gusta aprender continuamente y mejorar mi dominio en las tecnologías modernas para el desarrollo web sean Lenguajes, Librerías, Frameworks, prepocesadores entre otras me propongo el objetivo de aprender poco a poco, implementandolas a mis futuros proyectos.
 
 ### Conocimientos ###
 🧠Actualmente cuento con conocimientos en las siguientes tecnologías front-end y Back-end, algunas las domino más que otras conforme las voy aprendiendo y poniendo a prueba en proyectos prácticos.
