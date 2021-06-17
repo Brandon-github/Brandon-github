@@ -19,6 +19,6 @@
 ### Intereses a Aprender ###
 🤔Planeo aprender más adelante tecnologías avanzadas y modernas usadas en el desarrollo front-end y back-end
 
->React.js, Angular.js, Laravel, Ajax, Typescript
+>React.js, Angular.js, Laravel, Ajax, Typescript, noSQL(MongoDB)
 
 😉Y claro practicar mucho cada una de las tecnologias ya aprendidas las bases🙂.
