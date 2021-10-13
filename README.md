@@ -19,7 +19,7 @@
 
 ```javascript
    
-const brandon = {
+const conocimientos = {
     
     tecnologias = [Html, Css, Javascript, Java, Php, Sql],
     
