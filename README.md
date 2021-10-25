@@ -23,7 +23,7 @@ const conocimientos = {
     
     tecnologias = [Html, Css, Javascript, Java, Php, Sql],
     
-    herramientas = [Boostrap, Sass, NodeJs, Express, Jquery],
+    herramientas = [Boostrap, Sass, Less, NodeJs, Express, Jquery],
     
     intereses = {
     
@@ -35,4 +35,4 @@ const conocimientos = {
 }
 ```
     
-😉Y claro practicar mucho cada una de las tecnologias ya aprendidas las bases🙂.
+😉Y claro practicar mucho cada una de las tecnologias ya aprendidas las bases, mejorando el dominio progresivamente de cada una de ellas para la realizacion de mejores proyecto a futuro e ir creciendo como programador a nivel de conocimiento logico y creativo mejorando a su vez la calidad del software y su mantenibilidad🙂.
