@@ -21,11 +21,11 @@
    
 const conocimientos = {
     
-    tecnologias = [Html, Css, Javascript, Java, Php, Sql],
+    lenguajes : [Html, Css, Javascript, Java, Php, Sql],
     
-    herramientas = [Boostrap, Sass, Less, NodeJs, Express, Jquery],
+    tecnologias : [Boostrap, Sass, Less, NodeJs, Express, Jquery],
     
-    intereses = {
+    intereses : {
     
       frontend: [React, Typescript, Angular],
     
