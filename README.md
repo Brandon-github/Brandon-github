@@ -19,20 +19,20 @@
 </p>
 
 ```javascript
-   
 const conocimientos = {
+
+    frontend: [Html, Css, Javascript, Sass/Scss, Typescript, React, Jquery, Ajax],
     
-    lenguajes : [Html, Css, Javascript, Java, Php, Sql],
+    backend: [Nodejs, Express, Php, Sql]
     
-    tecnologias : [Boostrap, Sass, Less, NodeJs, Express, Jquery],
-    
-    intereses : {
-    
-      frontend: [React, Typescript, Angular],
-    
-      backend: [Laravel, Spring, Python, Django, NoSQL]
-    
-    }
+}
+
+const intereses = {
+
+  frontend: [Angular, Next],
+  
+  backend: [Docker, Laravel]
+  
 }
 ```
     
