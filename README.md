@@ -40,4 +40,4 @@ const intereses = {
   😉Y claro practicar mucho cada una de las tecnologias ya aprendidas las bases, mejorando el dominio progresivamente de cada una de ellas para la realizacion de mejores proyecto a futuro e ir creciendo como programador a nivel de conocimiento logico y creativo mejorando a su vez la calidad del software y su mantenibilidad🙂.
 </p>
     
-Si quieres conocer mas sobre mi, hechale un vistazo a mi portafolio personal [Aqi](https://vercel.com/brandon-github/portafolio/Eo79jKhPEc8qDxPnJyssdNg5LPTv)
+Si quieres conocer mas sobre mi, hechale un vistazo a mi portafolio personal [Aqi](https://portafolio-8xupk5g78-brandon-github.vercel.app/)
