@@ -7,6 +7,10 @@
 Hi, I'm a appasionate web developer who likes to learn constantly and being actualied about new technologies, creating projects and doing use of them with the objective to show my knowledges and improving my domain in the technologies.
 
 I specialize in frontend development but I also have knowledges in backend development and databases, my goal is being to able to build web application which be scaleble, maintainable and with a long life cicle, every this together with good practices, team work and improving everyday like developer.
+
+If you want to know more about me, please visite my website [here](https://brandon-alexis.vercel.app/)
+
+
 </p>
 
 ## Know my skills
@@ -15,6 +19,8 @@ I specialize in frontend development but I also have knowledges in backend devel
 [![My Skills](https://skillicons.dev/icons?i=astro,react,mysql,mongodb,docker,git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,python,linux,figma)](https://skillicons.dev)
 
+## Things I want learning to future
+[![My Skills](https://skillicons.dev/icons?i=angular,jest,postgres,next)](https://skillicons.dev)
 
 
 
