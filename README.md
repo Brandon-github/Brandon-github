@@ -7,9 +7,14 @@
 Hi, I'm a appasionate web developer who likes to learn constantly and being actualied about new technologies, creating projects and doing use of them with the objective to show my knowledges and improving my domain in the technologies.
 </p>
 
+## Know my skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,php,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,typescript,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,react,mysql,mongodb,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,python,linux,figma)](https://skillicons.dev)
 
 
-</p>
+
 
 ## Github Analitycs
 <p align="center">
