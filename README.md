@@ -8,7 +8,7 @@ Hi, I'm a appasionate web developer who likes to learn constantly and being actu
 
 I specialize in frontend development but I also have knowledges in backend development and databases, my goal is being to able to build web application which be scaleble, maintainable and with a long life cicle, every this together with good practices, team work and improving everyday like developer.
 
-If you want to know more about me, please visite my website [here](https://brandon-alexis.vercel.app/)
+If you want to know more about me, visite my website <a href="https://brandon-alexis.vercel.app/" target="_blank">here</a>
 
 
 </p>
